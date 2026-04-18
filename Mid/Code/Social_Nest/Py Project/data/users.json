@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": 1,
+        "username": "downtown",
+        "email": "down",
+        "password": "downtown",
+        "name": "Furqan",
+        "bio": "",
+        "profile_pic": "",
+        "created_at": 1764090518.8320467
+    },
+    {
+        "user_id": 2,
+        "username": "ali",
+        "email": "ali@gmail.com",
+        "password": "ali",
+        "name": "ali",
+        "bio": "",
+        "profile_pic": "",
+        "created_at": 1764090589.6106498
+    },
+    {
+        "user_id": 3,
+        "username": "hello",
+        "email": "hello",
+        "password": "hello",
+        "name": "hello",
+        "bio": "",
+        "profile_pic": "",
+        "created_at": 1764091329.6754544
+    }
+]
